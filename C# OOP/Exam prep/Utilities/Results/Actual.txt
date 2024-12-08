@@ -1,0 +1,49 @@
+Client CommonUser is successfully registered.
+CommonUser is already registered.
+Admin AdminUser1 is successfully registered with data access.
+user@applicationmail.bg is already used by another user.
+Admin AdminUser2 is successfully registered with data access.
+The number of application administrators is limited.
+Client john_doe is successfully registered.
+Client MikeRoss is successfully registered.
+Client janeSVG is successfully registered.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Laptop does not exist in the application.
+Monitor does not exist in the application.
+AdminUser1 has no authorization for this functionality.
+SmartWatch does not exist in the application.
+Laptop does not exist in the application.
+UnknownUser has no authorization for this functionality.
+CloudStorage does not exist in the application.
+GamingMouse does not exist in the application.
+CloudStorage does not exist in the application.
+SoftwareInstallation does not exist in the application.
+AntivirusSubscrition does not exist in the application.
+ExternalHardDrive does not exist in the application.
+janeSVG has no data access.
+0 products are listed again.
+CloudStorage does not exist in the application.
+Application administration:
+AdminUser1 - Status: Admin, Contact Info: hidden
+AdminUser2 - Status: Admin, Contact Info: hidden
+Clients:
+CommonUser - Status: Client, Contact Info: user@applicationmail.bg
+janeSVG - Status: Client, Contact Info: jennifer_savage@mail.de
+john_doe - Status: Client, Contact Info: john.doe@gmail.com
+MikeRoss - Status: Client, Contact Info: mike.ross@hotmail.com
